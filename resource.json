@@ -3,9 +3,10 @@
   "org": "Dentist-Web-Design",
   "brand": "Dentist Web Design",
   "slug": "dental-fee-table",
-  "title": "Dental Fee Table",
+  "title": "Dental Fee List Builder",
   "profile": "Dental practice websites with clear patient information and approved fee content. Operated by JW Digital Services Ltd.",
-  "accent": "#155663",
-  "tint": "#e7f4f4",
-  "summary": "Publish approved fee data as readable HTML with exact prices, ranges, notes and review dates."
+  "accent": "#2094af",
+  "tint": "#ddf0f5",
+  "summary": "Prepare a clear fee list using your practice’s approved prices, price ranges and notes.",
+  "brandMark": "<svg viewBox=\"0 0 48 48\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M24 10C10 0 3 10 8 24c2 6 5 18 8 18s3-14 8-14 5 14 8 14 6-12 8-18C45 10 38 0 24 10Z\"/></svg>"
 }

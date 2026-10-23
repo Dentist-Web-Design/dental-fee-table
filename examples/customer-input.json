@@ -1,0 +1,24 @@
+{
+  "business": "Example Dental Practice",
+  "reviewed": "2026-10-01",
+  "notes": "Illustrative fees for this example only. Individual treatment is discussed with the practice.",
+  "rows": [
+    {
+      "name": "Routine examination",
+      "kind": "exact",
+      "price": "55.00",
+      "note": "Example fee only."
+    },
+    {
+      "name": "Restorative treatment",
+      "kind": "from",
+      "price": "120",
+      "note": "Example wording for practice review."
+    },
+    {
+      "name": "Complex treatment",
+      "kind": "quote",
+      "note": "Written estimate after assessment."
+    }
+  ]
+}

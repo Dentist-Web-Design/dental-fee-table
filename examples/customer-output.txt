@@ -1,0 +1,13 @@
+Example Dental Practice: fee list
+
+Illustrative fees for this example only. Individual treatment is discussed with the practice.
+
+Routine examination | £55.00 | Example fee only.
+
+Restorative treatment | From £120.00 | Example wording for practice review.
+
+Complex treatment | Quoted individually | Written estimate after assessment.
+
+Approval record
+- Fees approved: 2026-10-01
+- Check that these remain current and that every description and note is approved before publication.

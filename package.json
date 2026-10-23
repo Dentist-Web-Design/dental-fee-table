@@ -1,7 +1,7 @@
 {
   "name": "dental-fee-table",
-  "version": "0.1.0",
-  "description": "Publish approved fee data as readable HTML with exact prices, ranges, notes and review dates.",
+  "version": "0.2.0",
+  "description": "Prepare a clear fee list using your practice’s approved prices, price ranges and notes.",
   "type": "module",
   "private": false,
   "license": "MIT",
