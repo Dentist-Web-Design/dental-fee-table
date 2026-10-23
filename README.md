@@ -6,6 +6,10 @@ The practice remains responsible for its prices and wording. This tool does not 
 
 ![Complete example](docs/preview.png)
 
+## Live demo
+
+[Try Dental Fee Table](https://dentist-web-design.github.io/dental-fee-table/). The demo runs in your browser; entered data is not uploaded by the tool. GitHub provides the hosting and handles request logs.
+
 ## Start locally
 
 Requires Node.js 22 or later. No runtime dependencies or account required.
