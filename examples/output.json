@@ -1,0 +1,48 @@
+{
+  "title": "Example Practice / fictional fees fee list",
+  "summary": "Fictional example values are not price guidance. The formatter publishes approved input, not clinical or regulatory advice.",
+  "fees": [
+    {
+      "id": "a",
+      "category": "Example fees",
+      "label": "Service A",
+      "price_type": "exact",
+      "amount": "42.00",
+      "reviewed_on": "2026-10-01",
+      "approved_note": "A fictional exact fee.",
+      "display": "£42.00"
+    },
+    {
+      "id": "b",
+      "category": "Example fees",
+      "label": "Service B",
+      "price_type": "range",
+      "min_amount": "60",
+      "max_amount": "95",
+      "reviewed_on": "2026-10-01",
+      "approved_note": "A fictional range; the real practice supplies context.",
+      "display": "£60.00 to £95.00"
+    },
+    {
+      "id": "c",
+      "category": "Other example fees",
+      "label": "Service C",
+      "price_type": "from",
+      "amount": "80",
+      "reviewed_on": "2026-10-01",
+      "approved_note": "A fictional starting amount.",
+      "display": "From £80.00"
+    },
+    {
+      "id": "d",
+      "category": "Other example fees",
+      "label": "Service D",
+      "price_type": "quote",
+      "reviewed_on": "2026-10-01",
+      "approved_note": "An individual quote is required.",
+      "display": "Quote after discussion"
+    }
+  ],
+  "issues": [],
+  "markdown": "- Service A: £42.00; reviewed 2026-10-01; A fictional exact fee.\n- Service B: £60.00 to £95.00; reviewed 2026-10-01; A fictional range; the real practice supplies context.\n- Service C: From £80.00; reviewed 2026-10-01; A fictional starting amount.\n- Service D: Quote after discussion; reviewed 2026-10-01; An individual quote is required."
+}

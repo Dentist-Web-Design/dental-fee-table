@@ -1,0 +1,5 @@
+"id","category","label","price_type","amount","reviewed_on","approved_note","min_amount","max_amount"
+"a","Example fees","Service A","exact","42.00","2026-10-01","A fictional exact fee.","",""
+"b","Example fees","Service B","range","","2026-10-01","A fictional range; the real practice supplies context.","60","95"
+"c","Other example fees","Service C","from","80","2026-10-01","A fictional starting amount.","",""
+"d","Other example fees","Service D","quote","","2026-10-01","An individual quote is required.","",""

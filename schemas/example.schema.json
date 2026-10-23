@@ -1,0 +1,62 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Dental Fee Table example structure",
+  "description": "Structural guide to the supplied example. Runtime validation enforces supported states, publication gates and cross-field rules.",
+  "type": "object",
+  "properties": {
+    "practice": {
+      "type": "string"
+    },
+    "currency": {
+      "type": "string"
+    },
+    "fees": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "category": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          },
+          "price_type": {
+            "type": "string"
+          },
+          "amount": {
+            "type": "string"
+          },
+          "reviewed_on": {
+            "type": "string"
+          },
+          "approved_note": {
+            "type": "string"
+          },
+          "min_amount": {
+            "type": "string"
+          },
+          "max_amount": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "id",
+          "category",
+          "label",
+          "price_type",
+          "reviewed_on",
+          "approved_note"
+        ]
+      }
+    }
+  },
+  "required": [
+    "practice",
+    "currency",
+    "fees"
+  ]
+}

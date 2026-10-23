@@ -1,0 +1,42 @@
+{
+  "practice": "Example Practice / fictional fees",
+  "currency": "GBP",
+  "fees": [
+    {
+      "id": "a",
+      "category": "Example fees",
+      "label": "Service A",
+      "price_type": "exact",
+      "amount": "42.00",
+      "reviewed_on": "2026-10-01",
+      "approved_note": "A fictional exact fee."
+    },
+    {
+      "id": "b",
+      "category": "Example fees",
+      "label": "Service B",
+      "price_type": "range",
+      "min_amount": "60",
+      "max_amount": "95",
+      "reviewed_on": "2026-10-01",
+      "approved_note": "A fictional range; the real practice supplies context."
+    },
+    {
+      "id": "c",
+      "category": "Other example fees",
+      "label": "Service C",
+      "price_type": "from",
+      "amount": "80",
+      "reviewed_on": "2026-10-01",
+      "approved_note": "A fictional starting amount."
+    },
+    {
+      "id": "d",
+      "category": "Other example fees",
+      "label": "Service D",
+      "price_type": "quote",
+      "reviewed_on": "2026-10-01",
+      "approved_note": "An individual quote is required."
+    }
+  ]
+}
