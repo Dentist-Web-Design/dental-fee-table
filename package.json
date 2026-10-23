@@ -1,6 +1,6 @@
 {
   "name": "dental-fee-table",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Prepare a clear fee list using your practice’s approved prices, price ranges and notes.",
   "type": "module",
   "private": false,
